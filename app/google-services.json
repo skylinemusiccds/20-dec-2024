@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "834259494071",
+    "project_id": "audioflare-dc12d",
+    "storage_bucket": "audioflare-dc12d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834259494071:android:e09a1ebc074994515b1932",
+        "android_client_info": {
+          "package_name": "com.universe.audioflare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8r-9LJgClo5RKlwfWXaw3lcjH92w2JXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
